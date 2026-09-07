@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nehagrwal.github.io/soda-peak-male-enhancement-gummies/sitemap.xml
+Sitemap: https://soda-peak-male-enhancement-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://soda-peak-male-enhancement-gummies.pages.dev/sitemap-cloudflare.xml
