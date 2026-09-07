@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/soda-peak-male-enhancement-gummies/sitemap.xml
